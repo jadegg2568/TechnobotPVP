@@ -1,3 +1,3 @@
-host = "26.232.24.242"
+host = "localhost"
 port = "25565"
-username = "TechnoBot"
+username = "TechnoBot_PVP"
