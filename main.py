@@ -29,7 +29,7 @@ async def console_input():
                     bot.pvp.stop()
                     print("Stopped attacking.")
                 else:
-                    player = bots[0].players[nickname]
+                    player = bots[0].players[username]
                     if player == None:
                         print(f"Player {username} wasn\'t found.")
                     else:
